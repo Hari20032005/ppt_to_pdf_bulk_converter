@@ -1,0 +1,3 @@
+# Python packages required for PowerPoint to PDF conversion
+# For Windows COM interface
+comtypes; platform_system=="Windows"
